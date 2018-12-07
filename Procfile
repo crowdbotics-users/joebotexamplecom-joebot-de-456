@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT joebotexamplecom_joebot_de_456.wsgi:application
